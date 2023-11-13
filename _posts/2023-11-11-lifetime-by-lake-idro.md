@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Il Mio Legame con il Lago d'Idro"
-author: "[Il tuo nome]"
+author: "Marco"
 categories: personale
 tags: [lago d'idro, esperienze, vita]
 image: lago-idro.jpg
