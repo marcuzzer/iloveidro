@@ -18,5 +18,3 @@ Ora, avvicinandomi ai cinquant'anni e essendo padre di due bambini piccoli, il L
 Le gite fuori porta sono un'aggiunta piacevole durante i mesi estivi. Questa regione è ricca di opportunità per esplorare e godere, offrendo così un perfetto equilibrio tra tranquillità e avventura.
 
 Il Lago d'Idro è più di una semplice destinazione turistica per me; è un pezzo del mio cuore, un luogo che ha plasmato chi sono e continua a essere una fonte di gioia e pace nella mia vita.
-
-[Il tuo nome]
