@@ -19,6 +19,8 @@ Le gite fuori porta sono un'aggiunta piacevole durante i mesi estivi. Questa reg
 
 Il Lago d'Idro è più di una semplice destinazione turistica per me; è un pezzo del mio cuore, un luogo che ha plasmato chi sono e continua a essere una fonte di gioia e pace nella mia vita.
 
+test test
+
 [Read about My Bond with Lake Idro in Italian](2023-11-11-una-vita-al-lago-d-idro.md)
 [Lees over Mijn Band met het Idromeer in het Nederlands](#)
 [Lesen Sie über Meine Verbindung zum Idrosee auf Deutsch](#)
