@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: de
 title: "Meine Verbindung zum Idrosee"
 author: "Marco"
 categories: [natur, reisen, erlebnisse]
