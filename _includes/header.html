@@ -1,4 +1,14 @@
 <header class="site-header">
+  <script>
+  function getLanguageFromURL() {
+    const urlParams = new URLSearchParams(window.location.search);
+    return urlParams.get('lang') || 'en'; // Default to English if no parameter is found
+  }
+
+  const currentLanguage = getLanguageFromURL();
+  // You can use currentLanguage to filter posts or toggle language-specific content
+</script>
+
   <h3 class="site-title">
     <a href="{{ site.github.url }}/">{{ site.title }}</a>
   </h3>
