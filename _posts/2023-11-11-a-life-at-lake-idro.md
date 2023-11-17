@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 title: "A Life at Lake Idro"
 author: "Marco"
 categories: [nature, travel, experiences]
@@ -16,6 +17,3 @@ The lake's eastern shore was my playground: I would cycle from one beach to anot
 Now, approaching my fifties and as a father of two young children, Lake Idro offers me a refuge from the bustle of Milan. Here, I find cool rest in the lake waters, enjoy kayaking, one of my favorite sports, and dedicate time to growing vegetables and fruits in my garden and orchard. It is also the perfect place for my children to play in various playgrounds and gardens, where they can explore and have fun safely.
 
 [Read about My Bond with Lake Idro in Italian]({% post_url 2023-11-11-una-vita-al-lago-d-idro %})
-[Lees over Mijn Band met het Idromeer in het Nederlands]({% post_url 2023-11-11-mijn-band-met-het-idromeer %})
-[Lesen Sie über Meine Verbindung zum Idrosee auf Deutsch]({% post_url 2023-11-11-meine-verbindung-zum-idrosee %})
-
