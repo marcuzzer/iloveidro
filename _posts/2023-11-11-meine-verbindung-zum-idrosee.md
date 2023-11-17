@@ -15,7 +15,3 @@ Während meiner Kindheit und Jugend verbrachte ich unzählige Urlaube hier, tauc
 Das Ostufer des Sees war mein Spielplatz: Ich radelte von einem Strand zum anderen und genoss jeden Moment. Der Winter brachte ein anderes Abenteuer: Die nahegelegenen Skipisten wurden ein Treffpunkt für mich und meine Mailänder Freunde, besonders während unserer Universitätsjahre.
 
 Jetzt, da ich mich meinem fünfzigsten Lebensjahr nähere und Vater von zwei kleinen Kindern bin, bietet mir der Idrosee eine Zuflucht vor dem Trubel Mailands. Hier finde ich kühle Ruhe in den Seewassern, genieße das Kajakfahren, einen meiner Lieblingssportarten, und widme Zeit dem Anbau von Gemüse und Obst in meinem Garten. Es ist auch der perfekte Ort, damit meine Kinder auf verschiedenen Spielplätzen und in Gärten sicher erkunden und Spaß haben können.
-
-[Lesen Sie über Meine Verbindung zum Idrosee auf Italienisch]({% post_url 2023-11-11-una-vita-al-lago-d-idro %})
-[Read about My Bond with Lake Idro in English]({% post_url 2023-11-11-a-life-at-lake-idro %})
-[Lees over Mijn Band met het Idromeer in het Nederlands]({% post_url 2023-11-11-mijn-band-met-het-idromeer %})
