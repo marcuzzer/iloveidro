@@ -15,6 +15,6 @@ The lake's eastern shore was my playground: I would cycle from one beach to anot
 
 Now, approaching my fifties and as a father of two young children, Lake Idro offers me a refuge from the bustle of Milan. Here, I find cool rest in the lake waters, enjoy kayaking, one of my favorite sports, and dedicate time to growing vegetables and fruits in my garden and orchard. It is also the perfect place for my children to play in various playgrounds and gardens, where they can explore and have fun safely.
 
-[Read about My Bond with Lake Idro in Italian](2023-11-11-una-vita-al-lago-d-idro.md)
+[Read about My Bond with Lake Idro in Italian](una-vita-al-lago-d-idro)
 [Lees over Mijn Band met het Idromeer in het Nederlands](#)
 [Lesen Sie über Meine Verbindung zum Idrosee auf Deutsch](#)
