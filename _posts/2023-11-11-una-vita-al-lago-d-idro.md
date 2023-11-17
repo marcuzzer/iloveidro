@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: it
 title: "Il Mio Legame con il Lago d'Idro"
 author: "Marco"
 categories: personale
