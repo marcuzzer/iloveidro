@@ -7,8 +7,13 @@ title: Home
 {% assign filename = page.name %}
 {% assign lang_code = filename | split: '.' | first %}
 
-{% assign lang_code = 'en' %}  <!-- Set this to the appropriate language code -->
+{% assign lang_folder = '/en/' %}
+{% assign posts = site.posts | where_exp: "post", "post.path contains lang_folder" %}
+
+<!--
+{% assign lang_code = 'en' %}   Set this to the appropriate language code 
 {% assign posts = site.posts | where_exp: "post", "post.path contains lang_code" %}
+-->
 
 <!--{% assign posts = site.posts | where_exp: "post", "post.path contains '/' | append: lang_code | append: '/'" %}-->
 {% for post in posts %}
