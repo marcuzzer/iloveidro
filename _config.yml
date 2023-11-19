@@ -1,4 +1,6 @@
 # Site Build Settings
+include:
+  - '_posts/*/*'
 
 # jekyll-paginate configuration
 paginate:            5
