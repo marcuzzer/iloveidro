@@ -7,8 +7,10 @@ title: Home
 {% assign filename = page.name %}
 {% assign lang_code = filename | split: '.' | first %}
 
-{% comment %}Filter posts by extracted language code{% endcomment %}
-{% assign posts = site.posts | where_exp: "post", "post.path contains '/' | append: lang_code | append: '/'" %}
+{% assign lang_code = 'en' %}  <!-- Set this to the appropriate language code -->
+{% assign posts = site.posts | where_exp: "post", "post.path contains lang_code" %}
+
+<!--{% assign posts = site.posts | where_exp: "post", "post.path contains '/' | append: lang_code | append: '/'" %}-->
 {% for post in posts %}
   {% include featured-post.html %}
 {% endfor %}
