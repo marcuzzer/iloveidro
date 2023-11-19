@@ -6,7 +6,7 @@ lang: en  # Language identifier
 ---
 
 {% for post in site.posts %}
-  {% if post.path contains '/en/' %}
+  {% if post.path contains "/en/" %}
     {% include featured-post.html %}  # Assuming you have a file '_includes/featured-post.html' to format how posts are displayed.
   {% endif %}
 {% endfor %}
