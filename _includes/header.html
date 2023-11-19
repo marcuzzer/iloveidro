@@ -13,10 +13,10 @@
     <a href="{{ site.github.url }}/">{{ site.title }}</a>
   </h3>
   <nav class="menu-list" class="language-menu">
-     <a href="?lang=en" class="language-link">EN</a>
-      <a href="?lang=it" class="language-link">IT</a>
-      <a href="?lang=nl" class="language-link">NL</a>
-      <a href="?lang=de" class="language-link">DE</a>
+     <a href="/en/" class="language-link">EN</a>
+      <a href="/it/" class="language-link">IT</a>
+      <a href="/nl/" class="language-link">NL</a>
+      <a href="/de/" class="language-link">DE</a>
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
     {% endfor %}
