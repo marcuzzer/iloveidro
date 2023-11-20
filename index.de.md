@@ -4,7 +4,7 @@ title: Home
 permalink: /de/
 lang: de
 ---
-file tedesco: {% page.lang %}
+file tedesco: {{ page.lang }}
 
 {% assign lang_folder = page.lang %}
 {% for post in site.posts %}
