@@ -27,9 +27,6 @@ Il kayak da allenamento è la mia sfida personale. Prediligo le prime luci dell'
 
 Il percorso di circumnavigazione del lago, che misura poco più di 20 km, è una danza tra me, il mio kayak e l'acqua, un viaggio che va oltre la semplice distanza.
 
-![Percorso di Kayak Intorno al Lago](path-to-kayak-route-photo.jpg)
-*Il mio viaggio solitario intorno al Lago d'Idro*
-
 ### I Segreti del Vento e delle Acque
 Nelle ore centrali, quando il vento termico accarezza il lago, le acque giocano con onde leggere. È il momento perfetto per i kayak ricreativi, un'esperienza che combina il piacere dell'esplorazione con il brivido leggero dell'avventura. Con il mio kayak performante, invece, scelgo la tranquillità del mattino, quando posso sfidare me stesso senza l'impeto del vento.
 
