@@ -15,9 +15,9 @@ Con i miei kayak ricreativi, le giornate al lago si trasformano in esplorazioni 
 ![Spiaggia Raggiunta in Kayak](path-to-beach-photo.jpg)
 *Una spiaggia segreta scoperta durante una delle mie esplorazioni*
 
-Ecco un video di una riva che ho raggiunto di recente, dove l'acqua del lago brillava sotto il sole, un angolo di paradiso che conservo gelosamente nel mio cuore.
+Uno degli aspetti più gratificanti di queste avventure è la possibilità di condividere questa passione con mio figlio. La sua eccitazione nel saltare nel kayak e l'entusiasmo mentre esploriamo insieme le acque calme del lago sono momenti indimenticabili. È una gioia vedere il mondo attraverso i suoi occhi pieni di meraviglia.
 
-![Riva del Lago d'Idro](path-to-lake-shore-video.mp4)
+![Io e mio figlio in kayak insieme](kayak-me-and-my-kid.jpg)
 
 ### Il Kayak da Allenamento: La Mia Sfida Personale
 Il kayak da allenamento è la mia sfida personale. Prediligo le prime luci dell'alba, quando il lago è uno specchio, e ogni colpo di pagaia è un dialogo silenzioso con la natura. È in questi momenti di solitudine che mi sento più vicino all'essenza del lago.
