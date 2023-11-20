@@ -15,7 +15,3 @@ Tijdens mijn kinderjaren en jeugd bracht ik ontelbare vakanties hier door, onder
 De oostelijke oever van het meer was mijn speeltuin: ik fietste van het ene strand naar het andere, genietend van elk moment. De winter bracht een ander avontuur: de nabijgelegen skipistes werden een ontmoetingsplaats voor mij en mijn vrienden uit Milaan, vooral tijdens onze universiteitsjaren.
 
 Nu ik mijn vijftigste nader en vader ben van twee jonge kinderen, biedt het Idromeer mij een toevluchtsoord van de drukte van Milaan. Hier vind ik koele rust in het water van het meer, geniet ik van kajakken, een van mijn favoriete sporten, en besteed ik tijd aan het verbouwen van groenten en fruit in mijn tuin en boomgaard. Het is ook de perfecte plek voor mijn kinderen om veilig te spelen in verschillende speeltuinen en tuinen.
-
-[Lees over Mijn Band met het Idromeer in het Italiaans]({% post_url 2023-11-11-una-vita-al-lago-d-idro %})
-[Read about My Bond with Lake Idro in English]({% post_url 2023-11-11-a-life-at-lake-idro %})
-[Lesen Sie über Meine Verbindung zum Idrosee auf Deutsch]({% post_url 2023-11-11-meine-verbindung-zum-idrosee %})
