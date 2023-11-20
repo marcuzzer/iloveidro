@@ -5,9 +5,9 @@ permalink: /de/
 lang: de
 ---
 
-
+{% assign lang_folder = page.lang %}
 {% for post in site.posts %}
-  {% if post.path contains "/de/" %}
-    {% include featured-post.html %}  
+  {% if post.path contains lang_folder %}
+   {% include featured-post.html %}  
   {% endif %}
 {% endfor %}
