@@ -3,33 +3,31 @@ layout: default
 title: Home
 ---
 
-{% comment %}Extract language code from page filename{% endcomment %}
-{% assign filename = page.name %}
-{% assign lang_code = filename | split: '.' | first %}
-
-{% assign lang_folder = '/en/' %}
-{% assign posts = site.posts | where_exp: "post", "post.path contains lang_folder" %}
-
-<!--
-{% assign lang_code = 'en' %}   Set this to the appropriate language code 
-{% assign posts = site.posts | where_exp: "post", "post.path contains lang_code" %}
--->
-
-<!--{% assign posts = site.posts | where_exp: "post", "post.path contains '/' | append: lang_code | append: '/'" %}-->
+{% assign posts = site.posts | where_exp: "post", "post.path contains '/en/'" %}
 {% for post in posts %}
   {% include featured-post.html %}
 {% endfor %}
 
+
+<!--
+{% assign default_lang = 'en' %}
+{% assign lang = page.lang | default: default_lang %}
+
+{% for post in paginator.posts %}
+  {% if post.lang == lang %}
+    {% include featured-post.html %}
+  {% endif %}
+{% endfor %}
+-->
 <!-- Pagination links -->
-<!-- Note: You may need to adjust the pagination logic to work with language-specific posts -->
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-button pagination-active next" href="{{ paginator.next_page_path }}">{{ site.data.settings.pagination.previous_page }}</a>
+    <a class="pagination-button pagination-active next" href="{{ site.baseurl }}{{ paginator.next_page_path }}?lang={{ lang }}">{{ site.data.settings.pagination.previous_page }}</a>
   {% else %}
     <span class="pagination-button">{{ site.data.settings.pagination.previous_page }}</span>
   {% endif %}
   {% if paginator.previous_page %}
-    <a class="pagination-button pagination-active" href="{{ paginator.previous_page_path }}">{{ site.data.settings.pagination.next_page }}</a>
+    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}?lang={{ lang }}">{{ site.data.settings.pagination.next_page }}</a>
   {% else %}
     <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
   {% endif %}
