@@ -4,21 +4,16 @@ title: Home
 ---
 
 {% assign posts = site.posts | where_exp: "post", "post.path contains '/en/'" %}
+posts {{ posts }}
+site.posts {{ site.posts }}
+post.path {{ post.path }}
+
+
 {% for post in posts %}
   {% include featured-post.html %}
 {% endfor %}
 
 
-<!--
-{% assign default_lang = 'en' %}
-{% assign lang = page.lang | default: default_lang %}
-
-{% for post in paginator.posts %}
-  {% if post.lang == lang %}
-    {% include featured-post.html %}
-  {% endif %}
-{% endfor %}
--->
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.next_page %}
