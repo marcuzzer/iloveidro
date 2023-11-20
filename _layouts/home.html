@@ -4,9 +4,9 @@ title: Home
 ---
 
 {% assign posts = site.posts | where_exp: "post", "post.path contains '/en/'" %}
-posts {{ posts }}
-site.posts {{ site.posts }}
-post.path {{ post.path }}
+posts <BR><BR><BR><BR> {{ posts }} <BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+site.posts <BR><BR><BR><BR> {{ site.posts }} <BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+post.path <BR><BR><BR><BR> {{ post.path }} <BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
 
 
 {% for post in posts %}
