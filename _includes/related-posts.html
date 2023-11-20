@@ -1,5 +1,18 @@
 <div class="related">
- <!-- <h2>{{ site.data.settings.related_posts }}</h2>-->
+<h2>
+  {% if page.lang == 'en' %}
+    Discover More Adventures...
+  {% elsif page.lang == 'de' %}
+    Entdecken Sie weitere Abenteuer...
+  {% elsif page.lang == 'it' %}
+    Scopri Altre Avventure...
+  {% elsif page.lang == 'nl' %}
+    Ontdek Meer Avonturen...
+  {% else %}
+    Discover More Adventures... <!-- Default language -->
+  {% endif %}
+</h2>
+
   {% assign listed_posts_urls = page.url | split: ' ' %}
   <ul class="related-posts">
     {% for tag in page.tags %}
