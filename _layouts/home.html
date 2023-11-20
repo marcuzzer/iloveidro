@@ -3,12 +3,29 @@ layout: default
 title: Home
 ---
 
+
+{% comment %}Check if page.lang is set, otherwise default to a specific language, e.g., 'en'{% endcomment %}
+{% assign lang_folder = page.lang | default: 'en' %}
+
+{% comment %}Filter posts by the language folder{% endcomment %}
+{% assign posts = site.posts | where_exp: "post", "post.path contains lang_folder" %}
+
+{% comment %}Display the filtered posts{% endcomment %}
+{% for post in posts %}
+  {% include featured-post.html %}
+{% endfor %}
+
+
+
+
+<!--
+
 {% assign posts = site.posts | where_exp: "post", "post.path contains '/nl/'" %}
 
 {% for post in posts %}
   {% include featured-post.html %}
 {% endfor %}
-
+-->
 
 <!-- Pagination links -->
 <div class="pagination">
