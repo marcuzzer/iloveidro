@@ -22,8 +22,4 @@ Questi sentieri sono un invito a esplorare la natura incontaminata e a godere di
 
 ### La Mia Esperienza Personale: Il Giro del Lago in E-Bike
 Ho recentemente affrontato un percorso unico in e-bike, noleggiate da [Bike3Lands Shop](https://www.bike3lands.com/) di Idro, gestito da Davide. Questo giro, che costeggia il lago, sale verso il Passo Maniva e scende a Ponte Caffaro, è un'esperienza accessibile a tutti, ricca di panorami splendidi e divertimento.
-
-![Vista Panoramica del Percorso](path-to-scenic-bike-route-photo.jpg)
-*Uno dei panorami lungo il percorso in e-bike*
-
-Un'avventura su due ruote che unisce sport, natura e il piacere di una pausa in baita di montagna.
+Un'avventura su due ruote che ha unito sport, natura e il piacere di una pranzo in baita.
