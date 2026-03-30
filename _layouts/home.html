@@ -3,40 +3,10 @@ layout: default
 title: Home
 ---
 
-
-{% comment %}Check if page.lang is set, otherwise default to a specific language, e.g., 'en'{% endcomment %}
-{% assign lang_folder = page.lang | default: 'en' %}
-
-{% comment %}Filter posts by the language folder{% endcomment %}
-{% assign posts = site.posts | where_exp: "post", "post.path contains lang_folder" %}
-
-{% comment %}Display the filtered posts{% endcomment %}
-{% for post in posts %}
-  {% include featured-post.html %}
-{% endfor %}
-
-
-
-
-<!--
-
-{% assign posts = site.posts | where_exp: "post", "post.path contains '/nl/'" %}
+{% assign current_lang = page.lang | default: 'en' %}
+{% assign posts = site.posts | where: "lang", current_lang %}
 
 {% for post in posts %}
   {% include featured-post.html %}
 {% endfor %}
--->
 
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-button pagination-active next" href="{{ site.baseurl }}{{ paginator.next_page_path }}?lang={{ lang }}">{{ site.data.settings.pagination.previous_page }}</a>
-  {% else %}
-    <span class="pagination-button">{{ site.data.settings.pagination.previous_page }}</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}?lang={{ lang }}">{{ site.data.settings.pagination.next_page }}</a>
-  {% else %}
-    <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
-  {% endif %}
-</div>

@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: it
 title: "Mountain Biking Intorno al Lago d'Idro: Sentieri e Panorami"
 author: "Marco"
 categories: [sport, natura, avventura]
@@ -9,7 +10,7 @@ image: mtb-lago-idro.jpg
 
 Il Lago d'Idro è una destinazione ideale per gli appassionati di mountain biking. Con una varietà di percorsi proposti da [Greenway Valli Resilienti](https://www.greenwayvalliresilienti.it/it/percorsi/), c'è sempre una nuova avventura da scoprire.
 
-![Sentiero di Mountain Bike](path-to-mtb-trail-photo.jpg)
+![Sentiero di Mountain Bike](/assets/img/path-to-mtb-trail-photo.jpg)
 *Uno dei tanti sentieri mozzafiato per mountain bike intorno al Lago d'Idro*
 
 ### I Migliori Percorsi per MTB

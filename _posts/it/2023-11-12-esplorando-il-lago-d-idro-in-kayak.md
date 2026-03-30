@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: it
 title: "Esplorando il Lago d'Idro in Kayak: Le Mie Avventure"
 author: "Marco"
 categories: [sport, natura, avventura]
@@ -12,17 +13,17 @@ Ogni volta che scivolo sull'acqua del Lago d'Idro con il mio kayak, mi sento com
 ### Le Mie Giornate in Kayak Ricreativo
 Con i miei kayak ricreativi, le giornate al lago si trasformano in esplorazioni serene. Raggiungo spiagge isolate, angoli nascosti dove l'acqua è talmente limpida da sembrare irreale. È in questi momenti di quiete che sento di appartenere veramente a questo luogo magico.
 
-![Spiaggia Raggiunta in Kayak](path-to-beach-photo.jpg)
+![Spiaggia Raggiunta in Kayak](/assets/img/path-to-beach-photo.jpg)
 *Una spiaggia segreta scoperta durante una delle mie esplorazioni*
 
 Uno degli aspetti più gratificanti di queste avventure è la possibilità di condividere questa passione con mio figlio. La sua eccitazione nel saltare nel kayak e l'entusiasmo mentre esploriamo insieme le acque calme del lago sono momenti indimenticabili. È una gioia vedere il mondo attraverso i suoi occhi pieni di meraviglia.
 
-![Io e mio figlio in kayak insieme](kayak-me-and-my-kid.jpg)
+![Io e mio figlio in kayak insieme](/assets/img/kayak-me-and-my-kid.jpg)
 
 ### Il Kayak da Allenamento: La Mia Sfida Personale
 Il kayak da allenamento è la mia sfida personale. Prediligo le prime luci dell'alba, quando il lago è uno specchio, e ogni colpo di pagaia è un dialogo silenzioso con la natura. È in questi momenti di solitudine che mi sento più vicino all'essenza del lago.
 
-![Kayak da Allenamento in Azione](path-to-training-kayak-photo.jpg)
+![Kayak da Allenamento in Azione](/assets/img/path-to-training-kayak-photo.jpg)
 *Un momento di pace durante un allenamento mattutino*
 
 Il percorso di circumnavigazione del lago, che misura poco più di 20 km, è una danza tra me, il mio kayak e l'acqua, un viaggio che va oltre la semplice distanza.

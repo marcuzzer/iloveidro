@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: it
 title: "Trekking in Montagna: I Sentieri del Lago d'Idro"
 author: "Marco"
 categories: [sport, natura, avventura]
@@ -9,7 +10,7 @@ image: trekking-lago-idro.jpg
 
 Il trekking intorno al Lago d'Idro è una delle mie passioni. I sentieri che si snodano attorno al lago, consigliati dal [CAI (Club Alpino Italiano)](https://www.cai.it/), offrono esperienze uniche, con panorami mozzafiato e percorsi per tutti i livelli.
 
-![Sentiero di Montagna](path-to-mountain-trail-photo.jpg)
+![Sentiero di Montagna](/assets/img/path-to-mountain-trail-photo.jpg)
 *Uno dei sentieri che percorro regolarmente*
 
 ### Percorsi Consigliati
