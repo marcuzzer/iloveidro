@@ -8,21 +8,74 @@
   </title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/syntax.css">
-  <!-- Use Atom -->
+
+  <!-- Meta Description -->
+  {% if page.description %}
+    <meta name="description" content="{{ page.description | escape }}" />
+  {% elsif site.description %}
+    <meta name="description" content="{{ site.description | escape }}" />
+  {% endif %}
+
+  <!-- Language -->
+  {% if page.lang %}
+    <meta http-equiv="content-language" content="{{ page.lang }}" />
+    <html lang="{{ page.lang }}">
+  {% endif %}
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="{{ site.url }}{{ page.url | replace: 'index.html', '' }}" />
+
+  <!-- Hreflang for multilingual SEO -->
+  <link rel="alternate" hreflang="it" href="{{ site.url }}/it/" />
+  <link rel="alternate" hreflang="en" href="{{ site.url }}/en/" />
+  <link rel="alternate" hreflang="de" href="{{ site.url }}/de/" />
+  <link rel="alternate" hreflang="nl" href="{{ site.url }}/nl/" />
+  <link rel="alternate" hreflang="x-default" href="{{ site.url }}/en/" />
+  {% if page.translations %}
+    {% for t in page.translations %}
+      <link rel="alternate" hreflang="{{ t[0] }}" href="{{ site.url }}{{ t[1] }}" />
+    {% endfor %}
+  {% endif %}
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{{ page.title | default: site.title | escape }}" />
+  <meta property="og:description" content="{{ page.description | default: site.description | escape }}" />
+  <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  {% if page.image %}
+  <meta property="og:image" content="{{ site.url }}/assets/img/{{ page.image }}" />
+  {% endif %}
+  <meta property="og:locale" content="{% if page.lang == 'it' %}it_IT{% elsif page.lang == 'de' %}de_DE{% elsif page.lang == 'nl' %}nl_NL{% else %}en_US{% endif %}" />
+  <meta property="og:site_name" content="I Love Idro" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{{ page.title | default: site.title | escape }}" />
+  <meta name="twitter:description" content="{{ page.description | default: site.description | escape }}" />
+  {% if page.image %}
+  <meta name="twitter:image" content="{{ site.url }}/assets/img/{{ page.image }}" />
+  {% endif %}
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/syntax.css">
+
+  <!-- Atom Feed -->
   {% feed_meta %}
-  <!-- RSS-v2.0
-  <link href="{{ site.github.url }}/rss-feed.xml" type="application/rss+xml" rel="alternate" title="{{ site.title }} | {{ site.description }}"/>
-  //-->
+
+  <!-- Fonts & Icons -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Source+Code+Pro">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
-  <script type="text/javascript" async
-    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
-  </script>
-  <!-- Google Analytics 
-  {% include google-analytics.html %}
-  -->
-  <!-- Use Jekyll SEO plugin -->
+
+  <!-- Jekyll SEO plugin -->
   {% seo %}
+
+  <!-- Google Analytics GA4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-LPX2B03KNT"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-LPX2B03KNT');
+  </script>
 </head>
