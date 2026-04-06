@@ -11,12 +11,31 @@ layout: default
   {% endif %}
   {% if page.image %}
     <div class="featured-image">
-      <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+      <img src="{{ site.url }}/assets/img/{{ page.image }}" alt="{{ page.title | escape }}">
     </div>
   {% endif %}
   <article>
     {{ content }}
   </article>
+
+  <!-- Language switch for this post -->
+  {% if page.translations %}
+  <div class="post-translations">
+    <strong>
+      {% if page.lang == 'it' %}Leggi in altre lingue:
+      {% elsif page.lang == 'de' %}In anderen Sprachen lesen:
+      {% elsif page.lang == 'nl' %}Lees in andere talen:
+      {% else %}Read in other languages:
+      {% endif %}
+    </strong>
+    {% for t in page.translations %}
+      {% unless t[0] == page.lang %}
+        <a href="{{ site.url }}{{ t[1] }}">{{ t[0] | upcase }}</a>
+      {% endunless %}
+    {% endfor %}
+  </div>
+  {% endif %}
+
   {% if site.hide_post_share != true %}
     {% include post-share.html %}
   {% endif %}
@@ -27,3 +46,36 @@ layout: default
     {% include disqus.html %}
   {% endif %}
 </div>
+
+<!-- Schema.org JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{% if page.schema_type %}{{ page.schema_type }}{% else %}Article{% endif %}",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ page.description | default: site.description | jsonify }},
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author | default: site.author }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "I Love Idro",
+    "url": "{{ site.url }}"
+  },
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  {% if page.image %}"image": "{{ site.url }}/assets/img/{{ page.image }}",{% endif %}
+  "url": "{{ site.url }}{{ page.url }}",
+  "inLanguage": "{{ page.lang | default: 'it' }}",
+  "about": {
+    "@type": "LakeBodyOfWater",
+    "name": "Lago d'Idro",
+    "alternateName": ["Idrosee", "Idromeer", "Lake Idro"],
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "45.7543",
+      "longitude": "10.5127"
+    }
+  }
+}
+</script>

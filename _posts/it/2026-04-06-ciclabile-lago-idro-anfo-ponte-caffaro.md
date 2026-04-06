@@ -61,6 +61,10 @@ Il video mostra il percorso nella sua interezza, inclusi i tratti più belli e q
 
 **Collegamento Trentino:** arrivati a Ponte Caffaro, potete continuare verso nord sulla ciclabile del Chiese che porta nel cuore del Trentino. Un'opportunità interessante per chi vuole fare un'uscita più lunga o un vero e proprio cicloviaggio.
 
+## Una Sorpresa: Quanta Gente!
+
+Una cosa che mi ha davvero stupito durante l'ultima uscita è la quantità incredibile di persone incontrate lungo il percorso. Di solito, anche in piena alta stagione, quando facevo questo tragitto un po' in bici e un po' a piedi sui single track lungo la sponda incontravo sì e no una decina di persone in tutta la giornata. Oggi ne ho contate facilmente un centinaio, forse anche duecento. È evidente che il completamento della ciclabile sta cambiando radicalmente il modo in cui la gente vive il lago: famiglie, gruppi di amici, coppie, cicloturisti con borse — un flusso costante che fino a poco tempo fa era impensabile su questa sponda. Bello vedere il lago così vivo, anche se chi cercava la solitudine assoluta dovrà forse rivedere le proprie aspettative.
+
 ## Un Pezzo di Infrastruttura Atteso da Anni
 
 Chi frequenta il Lago d'Idro sa quanto fosse attesa questa ciclabile. Per anni l'unica alternativa per andare da Idro ad Anfo era la SP237, una strada statale con traffico che non è certo ideale per andare in bici in famiglia. La nuova pista cambia il volto della mobilità dolce sul lago e rappresenta un tassello importante per chi sogna di pedalare da Brescia fino al Trentino seguendo il fiume Chiese.

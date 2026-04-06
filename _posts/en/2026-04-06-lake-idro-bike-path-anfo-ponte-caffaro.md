@@ -61,6 +61,10 @@ The video covers the whole path, including the best stretches and the sections t
 
 **Trentino connection:** once you reach Ponte Caffaro you can continue north on the Chiese river cycle path into the heart of Trentino — a great option for longer rides or multi-day cycle touring.
 
+## A Surprise: So Many People!
+
+One thing that really struck me on my latest ride was the sheer number of people I met along the route. Normally, even in peak season, when I used to do this stretch partly by bike and partly on foot along the lakeside single tracks, I'd come across maybe ten people in an entire day. Today I easily counted a hundred, possibly two hundred. It's clear that the completion of the bike path is fundamentally changing how people experience the lake: families, groups of friends, couples, bike-packers with panniers — a constant flow that would have been unthinkable on this shore until very recently. It's wonderful to see the lake so alive, even if anyone hoping for total solitude may have to adjust their expectations.
+
 ## A Long Time Coming
 
 Anyone who knows Lake Idro will understand why this path matters. For years the only way to cycle from Idro to Anfo was on the SP237, a busy main road that is far from ideal for family cycling. This new route changes the picture entirely and is an important piece of the puzzle for anyone dreaming of pedalling all the way from Brescia to Trentino along the Chiese valley.

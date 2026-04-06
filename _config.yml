@@ -11,14 +11,23 @@ highlighter:         rouge
 permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
-baseurl: ""  # this should be empty for user or organization sites
-url: "https://marcuzzer.github.io"  # your site's base hostname
+baseurl: ""
+url: "https://www.iloveidro.com"
 
+# Site metadata
+title:               "I Love Idro"
+description:         "Esperienze autentiche al Lago d'Idro: kayak, trekking, MTB, windsurf, borghi e gastronomia. Guide in italiano, inglese, tedesco e olandese."
+author:              "Marco"
+lang:                "it"
 
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Lago d'Idro"
-description:	       "Cose da fare al lago d'Idro"
-author:              "MC"
+# Default frontmatter
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: "Marco"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

@@ -61,6 +61,10 @@ De video toont de volledige route — de mooiste stukken én de gedeelten die no
 
 **Aansluiting Trentino:** vanaf Ponte Caffaro kun je verder noordwaarts via het Chiese-fietspad het hart van Trentino in — ideaal voor langere dagtochten of een meerdaagse fietstocht.
 
+## Een Verrassing: Wat een Mensen!
+
+Wat mij tijdens mijn laatste rit echt verbaasde, was het grote aantal mensen dat ik onderweg tegenkwam. Normaal gesproken, zelfs in het hoogseizoen, kwam ik op dit traject — dat ik vroeger deels op de fiets en deels lopend over de single tracks langs de oever deed — misschien een tiental mensen tegen op een hele dag. Vandaag heb ik er met gemak honderd geteld, misschien wel tweehonderd. Het is duidelijk dat de afronding van het fietspad de manier waarop mensen het meer beleven ingrijpend verandert: gezinnen, vriendengroepen, stelletjes, fietsreizigers met bagagetassen — een constante stroom die op deze oever tot voor kort ondenkbaar was. Het is geweldig om het meer zo levendig te zien, ook al moeten zij die de absolute stilte zoeken hun verwachtingen wellicht bijstellen.
+
 ## Lang Verwacht, Bijna Werkelijkheid
 
 Wie het Idromeer kent, begrijpt hoe welkom dit fietspad is. Jarenlang was de drukke SP237 de enige optie om van Idro naar Anfo te fietsen — niet bepaald uitnodigend voor een ontspannen gezinsuitje. De nieuwe route verandert het beeld van duurzame mobiliteit rond het meer volledig en is een belangrijke schakel voor wie droomt van een fietsreis van Brescia tot Trentino langs de Chiese-vallei.

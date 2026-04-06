@@ -6,6 +6,13 @@ author: "Marco"
 categories: [sport, natuur, avontuur]
 tags: [kajak, idromeer, buitenactiviteiten, verkenning, wateravontuur]
 image: kayak-lago-idro.jpg
+description: "Kajakken op het Idromeer: verborgen stranden, training bij zonsopgang en familieavonturen. Complete gids met routes en praktische tips."
+permalink: /kajakken-op-het-idromeer/
+translations:
+  it: /kayak-lago-idro/
+  en: /exploring-lake-idro-by-kayak/
+  de: /kajak-am-idrosee/
+  nl: /kajakken-op-het-idromeer/
 ---
 
 Telkens wanneer ik met mijn kajak over het water van het Idromeer glij, voelt het alsof ik een verborgen geheim aan het ontdekken ben. Dit rustige water en de panorama's die zich rondom me ontvouwen, zijn als pagina's uit een dagboek vol verhalen van rust en avontuur.
@@ -39,3 +46,14 @@ Door deze woorden hoop ik je iets van mijn liefde voor het Idromeer en kajakken 
 ---
 
 Kajakken op het Idromeer is niet alleen een sport, het is een dialoog met de natuur, een persoonlijk avontuur dat wacht om ontdekt te worden. Of je hier voor een dag bent of voor het leven, dit water zal je verwelkomen in een verhaal dat alleen jij kunt schrijven.
+
+## Veelgestelde Vragen
+
+**Wanneer is de beste tijd om te kajakken op het Idromeer?**
+Het ideale seizoen loopt van mei tot september. 's Ochtends is het water rustig en perfect voor trainingspaddelen, 's middags zorgt de Ander-thermische wind voor lichte golven — ideaal voor recreatief kajakken.
+
+**Waar kan ik een kajak huren bij het Idromeer?**
+Verschillende verhuurpunten bevinden zich langs de oevers van het meer, vooral in de omgeving van Idro en Anfo. Er zijn opties voor enkele, dubbele en familiekajaks.
+
+**Hoe lang is de omrondvaart van het Idromeer per kajak?**
+De volledige omrondvaart van het Idromeer is iets meer dan 20 km. Met een recreatieve kajak duurt het ongeveer 4-5 uur, met een trainingskajak ongeveer 2-3 uur.

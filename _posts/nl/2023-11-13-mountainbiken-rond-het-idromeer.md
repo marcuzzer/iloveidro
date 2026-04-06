@@ -6,6 +6,13 @@ author: "Marco"
 categories: [sport, natuur, avontuur]
 tags: [mountainbiken, fietsen, idromeer, trails, fiets]
 image: mtb-lago-idro.jpg
+description: "Mountainbiken rond het Idromeer: de beste trails, MTB- en e-bikeroutes met adembenemende uitzichten in de bergen van Brescia."
+permalink: /mountainbiken-rond-het-idromeer/
+translations:
+  it: /mountain-biking-lago-idro/
+  en: /mountain-biking-lake-idro/
+  de: /mountainbiken-am-idrosee/
+  nl: /mountainbiken-rond-het-idromeer/
 ---
 
 Het Idromeer is een perfect bestemming voor mountainbike-enthousiasten. Met een verscheidenheid aan routes van [Greenway Valli Resilienti](https://www.greenwayvalliresilienti.it/it/percorsi/), is er altijd een nieuw avontuur te ontdekken.
@@ -26,3 +33,14 @@ Deze routes zijn een uitnodiging om de ongerepte natuur te verkennen en te genie
 
 Ik heb onlangs een unieke e-bike-tocht ondernomen met fietsen van [Bike3Lands Shop](https://www.bike3lands.com/) in Idro, beheerd door Davide. Deze tocht, die langs het meer loopt, naar Passo Maniva klimt en af daalt naar Ponte Caffaro, is een ervaring die voor iedereen toegankelijk is en vol staat met prachtige uitzichten en veel plezier.
 Een avontuur op twee wielen dat sport, natuur en het genot van een lunch in een berghuisje samenbracht.
+
+## Veelgestelde Vragen
+
+**Wat zijn de beste MTB-trails bij het Idromeer?**
+De hoofdroutes zijn de Meerronde (30km, makkelijk, panoramisch) en de Monte Stino Trail (45km, uitdagend, 1.200m hoogteverschil). Alle details op [Greenway Valli Resilienti](https://www.greenwayvalliresilienti.it/it/percorsi/).
+
+**Kan ik e-bikes huren bij het Idromeer?**
+Ja, [Bike3Lands Shop](https://www.bike3lands.com/) in Idro, gerund door Davide, biedt hoogwaardige e-bikes te huur. De meerronde met de klim naar Passo Maniva is een aanrader.
+
+**Is het Idromeer ook geschikt voor beginnende fietsers?**
+Zeker. De route rondom het meer is overwegend vlak en landschappelijk prachtig, ideaal voor alle niveaus. Voor meer uitdaging zijn er klimmen richting Passo Maniva en bergtrails.

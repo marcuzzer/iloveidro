@@ -61,6 +61,10 @@ Das Video zeigt die gesamte Route — die schönsten Abschnitte ebenso wie die S
 
 **Anschluss Trentino:** Ab Ponte Caffaro kann man auf dem Chiese-Radweg weiter Richtung Norden ins Herz Trentinos fahren — ideal für längere Tagestouren oder Radreisen.
 
+## Eine Überraschung: So viele Menschen!
+
+Was mich auf der letzten Tour wirklich überrascht hat, war die schiere Menge an Menschen, denen ich auf der Strecke begegnet bin. Normalerweise traf ich, selbst in der Hochsaison, auf dieser Strecke — die ich früher teils mit dem Rad, teils zu Fuß auf den Single Trails am Ufer zurücklegte — vielleicht zehn Personen im Laufe eines ganzen Tages. Heute habe ich locker hundert gezählt, vielleicht sogar zweihundert. Es ist offensichtlich: Die Fertigstellung des Radwegs verändert grundlegend, wie die Menschen den See erleben. Familien, Freundesgruppen, Paare, Radreisende mit Packtaschen — ein ständiger Strom, der auf diesem Ufer bis vor Kurzem undenkbar gewesen wäre. Es ist schön zu sehen, wie lebendig der See geworden ist — auch wenn alle, die völlige Ruhe suchen, ihre Erwartungen vielleicht etwas anpassen müssen.
+
 ## Ein lang erwartetes Stück Infrastruktur
 
 Wer den Idrosee kennt, weiß, wie sehr dieser Radweg gebraucht wurde. Jahrelang war die SP237 die einzige Möglichkeit, von Idro nach Anfo zu gelangen — eine stark befahrene Landstraße, die für Familienausflüge auf dem Rad alles andere als geeignet ist. Der neue Weg verändert die Möglichkeiten für sanfte Mobilität am See grundlegend und ist ein wichtiger Baustein für alle, die davon träumen, von Brescia bis nach Trentino entlang des Chiese-Tals zu radeln.

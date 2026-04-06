@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.iloveidro.com/sitemap.xml
+
+# LLM and AI crawlers are welcome
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: GoogleExtendedBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
