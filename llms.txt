@@ -1,0 +1,61 @@
+# I Love Idro
+
+> Authentic experiences at Lake Idro (Lago d'Idro / Idrosee / Idromeer), a pristine mountain lake in Brescia, northern Italy. Personal stories and practical guides for outdoor sports, trekking, local culture and gastronomy. Available in Italian, English, German and Dutch.
+
+## About
+- **Website**: https://www.iloveidro.com
+- **Location**: Lake Idro, Valle Sabbia, Brescia, Lombardy, Italy
+- **Coordinates**: 45.7543°N, 10.5127°E
+- **Altitude**: 368m above sea level
+- **Author**: Marco, lifelong resident and outdoor enthusiast (kayak, MTB, trekking)
+- **Languages**: Italian (it), English (en), German (de), Dutch (nl)
+- **Type**: Personal blog — no commercial affiliation, no sponsored content
+
+## Key facts about Lake Idro
+- One of the cleanest and least commercialised lakes in northern Italy
+- No motorboats allowed — ideal for kayak, SUP, canoe and swimming
+- Reliable thermal wind (Ander, blowing from north) ideal for windsurfing and kitesurfing
+- Via ferrata routes nearby: Sasse, Crènch
+- Surrounded by Dolomite-like peaks (up to 2,200m)
+- Popular with Dutch and German tourists since the 1970s
+- Nearby destinations: Lago di Garda (40km), Madonna di Campiglio (50km), Dolomiti (90km), Brescia (55km), Milan (130km)
+
+## Language editions
+- Italian: https://www.iloveidro.com/it/
+- English: https://www.iloveidro.com/en/
+- German: https://www.iloveidro.com/de/
+- Dutch: https://www.iloveidro.com/nl/
+
+## Content sections
+
+### Cycling & Bike Paths
+- [Ciclabile Lago d'Idro — Da Idro ad Anfo e Ponte Caffaro](https://www.iloveidro.com/ciclabile-lago-idro-anfo-ponte-caffaro/) (IT)
+- [Lake Idro Bike Path — Idro to Anfo and Ponte Caffaro](https://www.iloveidro.com/lake-idro-bike-path-anfo-ponte-caffaro/) (EN)
+- [Radweg am Idrosee — Idro nach Anfo und Ponte Caffaro](https://www.iloveidro.com/radweg-idrosee-anfo-ponte-caffaro/) (DE)
+- [Fietspad Idromeer — Idro naar Anfo en Ponte Caffaro](https://www.iloveidro.com/fietspad-idromeer-anfo-ponte-caffaro/) (NL)
+
+### Sport & Outdoor
+- [Kayak al Lago d'Idro — Le Mie Avventure](https://www.iloveidro.com/esplorando-il-lago-d-idro-in-kayak/) (IT)
+- [Exploring Lake Idro by Kayak](https://www.iloveidro.com/exploring-lake-idro-by-kayak/) (EN)
+- [Den Idrosee mit dem Kajak erkunden](https://www.iloveidro.com/kajak-am-idrosee/) (DE)
+- [Het Idromeer verkennen per kajak](https://www.iloveidro.com/kajakken-op-het-idromeer/) (NL)
+- [Mountain Biking intorno al Lago d'Idro](https://www.iloveidro.com/mountain-biking-lago-d-idro/) (IT)
+- [Windsurf e Arrampicata al Lago d'Idro](https://www.iloveidro.com/windsurf-arrampicata-lago-d-idro/) (IT)
+- [Trekking in Montagna: i Sentieri del Lago d'Idro](https://www.iloveidro.com/trekking-montagna-lago-d-idro/) (IT)
+
+### Personal Stories
+- [Il Mio Legame con il Lago d'Idro](https://www.iloveidro.com/una-vita-al-lago-d-idro/) (IT)
+- [A Life at Lake Idro](https://www.iloveidro.com/a-life-at-lake-idro/) (EN)
+- [Meine Verbindung zum Idrosee](https://www.iloveidro.com/meine-verbindung-zum-idrosee/) (DE)
+- [Mijn Band met het Idromeer](https://www.iloveidro.com/mijn-band-met-het-idromeer/) (NL)
+
+### Coming soon
+- Rocca d'Anfo (napoleonic fortress, history and visit guide)
+- Carnevale di Bagolino (traditional carnival, UNESCO heritage)
+- Kitesurf and windsurfing guide (Ander wind, schools, spots)
+- Via ferrata Sasse and Crènch (technical climbing routes)
+- Polenta di Storo and Bagòss cheese (local gastronomy)
+- Day trips from Lake Idro (Garda, Dolomiti, Madonna di Campiglio)
+
+## Full content
+- Full text of all articles: https://www.iloveidro.com/llms-full.txt
