@@ -122,7 +122,7 @@ translations:
 
 - Alpine lake, Valle Sabbia, province of Brescia, Lombardy, Italy
 - Coordinates: 45.7543°N, 10.5127°E — altitude: 368m above sea level
-- One of the cleanest lakes in Italy — no motorboats allowed
+- One of the cleanest lakes in Italy — boat engines capped at 9.9 HP (no speedboats or water skiing; mostly slow fishing boats)
 - Reliable thermal wind (Ander) ideal for windsurfing and kitesurfing
 - Via ferrata routes: Sasse, Crènch
 - Popular with Dutch and German tourists since the 1970s

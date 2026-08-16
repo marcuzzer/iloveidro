@@ -29,7 +29,7 @@ Jetzt, da ich mich meinem fünfzigsten Lebensjahr nähere und Vater von zwei kle
 Der Idrosee (italienisch: Lago d'Idro, niederländisch: Idromeer) liegt im Valle Sabbia, Provinz Brescia, Lombardei, Italien. Er ist etwa 2 Stunden von Mailand und 1 Stunde von Brescia entfernt. Koordinaten: 45.7543°N, 10.5127°E, Höhe: 368m ü. M.
 
 **Was macht den Idrosee besonders im Vergleich zum Gardasee?**
-Der Idrosee ist viel ruhiger und unberührter als der nahe Gardasee. Motorboote sind nicht erlaubt, das Wasser ist außergewöhnlich sauber und die Ufer sind kaum bebaut. Perfekt für Naturliebhaber, die Authentizität suchen.
+Der Idrosee ist viel ruhiger und unberührter als der nahe Gardasee. Motoren sind auf 9,9 PS begrenzt — es gibt also keine Schnellboote und kein Wasserski, nur langsame Fischerboote. Das Wasser ist außergewöhnlich sauber und die Ufer sind kaum bebaut. Perfekt für Naturliebhaber, die Authentizität suchen.
 
 **Ist der Idrosee für Familien mit Kindern geeignet?**
 Auf jeden Fall. Die ruhigen, sauberen Gewässer, zugängliche Strände, Spielplätze und einfache Wanderwege machen ihn ideal für Familien mit Kindern jeden Alters.

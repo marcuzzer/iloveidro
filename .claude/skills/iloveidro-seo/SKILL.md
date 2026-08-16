@@ -310,7 +310,7 @@ Crea il file `/llms.txt` nella root del repo. È come un `robots.txt` ma pensato
 - Coming soon: Polenta di Storo, Bagòss, malfatti
 
 ## Key facts about Lake Idro
-- One of the cleanest lakes in Italy, no motorboats allowed
+- One of the cleanest lakes in Italy, boat engines capped at 9.9 HP (no speedboats or water skiing; mostly slow fishing boats)
 - Reliable thermal wind (Ander) ideal for windsurfing and kitesurfing
 - Via ferrata routes: Sasse, Crènch
 - Popular with Dutch and German tourists since the 1970s

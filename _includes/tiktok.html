@@ -1,0 +1,18 @@
+<!-- TikTok embed. Parameters: id (numeric video id), user (handle without @),
+     url (full video URL), caption, fallback (text of the link below the player). -->
+<div class="tiktok-embed-wrapper" style="display:flex;justify-content:center;margin:2rem 0;">
+  <blockquote class="tiktok-embed"
+              cite="{{ include.url }}"
+              data-video-id="{{ include.id }}"
+              style="max-width:605px;min-width:290px;width:100%;margin:0;">
+    <section>
+      <a target="_blank" rel="noopener" title="@{{ include.user }}"
+         href="https://www.tiktok.com/@{{ include.user }}">@{{ include.user }}</a>
+      {{ include.caption }}
+    </section>
+  </blockquote>
+</div>
+<p style="text-align:center;font-size:0.9em;">
+  <a href="{{ include.url }}" target="_blank" rel="noopener">{{ include.fallback | default: "Watch the video on TikTok" }}</a>
+</p>
+<script async src="https://www.tiktok.com/embed.js"></script>

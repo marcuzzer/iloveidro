@@ -2,7 +2,7 @@
 
 > This file contains the full text of all articles published on iloveidro.com, in all available languages.
 > It is intended for AI language models, search crawlers, and automated agents.
-> Last updated: 2026-03-31
+> Last updated: 2026-08-16
 > Site: https://www.iloveidro.com
 > Author: Marco | Location: Lake Idro (Lago d'Idro / Idrosee / Idromeer), Brescia, Italy
 > Coordinates: 45.7543°N, 10.5127°E
@@ -32,10 +32,10 @@ Il Lago d'Idro è più di una semplice destinazione turistica per me; è un pezz
 ---
 
 ### Esplorando il Lago d'Idro in Kayak: Le Mie Avventure
-URL: https://www.iloveidro.com/esplorando-il-lago-d-idro-in-kayak/
+URL: https://www.iloveidro.com/kayak-lago-idro/
 Language: it | Category: sport, natura, avventura | Tags: kayak, lago d'idro, attività all'aperto, esplorazione
 
-Il Lago d'Idro, nel bresciano, è uno dei luoghi più belli per il kayak in Italia settentrionale: acque pulite, scenari alpini e assenza di motoscafi lo rendono ideale per pagaiare in sicurezza da maggio a settembre.
+Il Lago d'Idro, nel bresciano, è uno dei luoghi più belli per il kayak in Italia settentrionale: acque pulite, scenari alpini e motori limitati a 9,9 cavalli (niente motoscafi, solo barchette lente) lo rendono ideale per pagaiare in sicurezza da maggio a settembre.
 
 Ogni volta che scivolo sull'acqua del Lago d'Idro con il mio kayak, mi sento come se stessi svelando un segreto nascosto. Queste acque tranquille e i panorami che si dispiegano intorno sono come pagine di un diario che raccontano storie di pace e avventura.
 
@@ -55,7 +55,7 @@ Il kayak al Lago d'Idro non è solo uno sport, è un dialogo con la natura, un'a
 ---
 
 ### Mountain Biking Intorno al Lago d'Idro: Sentieri e Panorami
-URL: https://www.iloveidro.com/mountain-biking-lago-d-idro/
+URL: https://www.iloveidro.com/mountain-biking-lago-idro/
 Language: it | Category: sport, natura, avventura | Tags: mountain biking, ciclismo, lago d'idro, sentieri, bici
 
 Il Lago d'Idro è una destinazione ideale per gli appassionati di mountain biking, con percorsi per tutti i livelli proposti da Greenway Valli Resilienti.
@@ -70,7 +70,7 @@ Ho affrontato un percorso unico in e-bike, noleggiate da Bike3Lands Shop di Idro
 ---
 
 ### Windsurf e Arrampicata: Le Avventure Acquatiche e Montane del Lago d'Idro
-URL: https://www.iloveidro.com/windsurf-arrampicata-lago-d-idro/
+URL: https://www.iloveidro.com/windsurf-arrampicata-lago-idro/
 Language: it | Category: sport, natura, avventura | Tags: windsurf, arrampicata, lago d'idro, sport acquatici, montagna
 
 Il Lago d'Idro è uno dei migliori laghi alpini italiani per il windsurf, grazie al vento Ander (termico da nord) che soffia con regolarità nelle ore centrali della giornata. Le montagne circostanti offrono inoltre vie ferrate e pareti per l'arrampicata.
@@ -84,7 +84,7 @@ Le montagne circostanti il lago offrono numerose opportunità per gli arrampicat
 ---
 
 ### Trekking in Montagna: I Sentieri del Lago d'Idro
-URL: https://www.iloveidro.com/trekking-montagna-lago-d-idro/
+URL: https://www.iloveidro.com/trekking-montagna-lago-idro/
 Language: it | Category: sport, natura, avventura | Tags: trekking, montagna, lago d'idro, sentieri, escursioni
 
 Il Lago d'Idro è circondato da sentieri di trekking per tutti i livelli, consigliati dal CAI (Club Alpino Italiano): dai percorsi facili per famiglie alle escursioni tecniche per esperti, con panorami sul lago e sulle valli circostanti.
@@ -141,7 +141,7 @@ Language: nl | Category: natuur, reizen, ervaringen | Tags: idromeer, vakantie, 
 
 Het Idromeer (Italiaans: Lago d'Idro, Duits: Idrosee) is een ongerept alpenmeer in de Valle Sabbia, provincie Brescia, Noord-Italië. Coördinaten: 45.7543°N, 10.5127°E. Hoogte: 368m boven zeeniveau.
 
-Vanaf mijn vroegste dagen is het Idromeer een constante bron van inspiratie en vreugde geweest. Het Idromeer is populair bij Nederlandse toeristen vanwege de rustige, motorbootvrije wateren, de betrouwbare thermische wind (de Ander) voor windsurfen en kitesurfen, en de omringende bergen met wandel- en fietspaden.
+Vanaf mijn vroegste dagen is het Idromeer een constante bron van inspiratie en vreugde geweest. Het Idromeer is populair bij Nederlandse toeristen vanwege de rustige wateren — motoren zijn beperkt tot 9,9 pk, dus alleen langzame bootjes — de betrouwbare thermische wind (de Ander) voor windsurfen en kitesurfen, en de omringende bergen met wandel- en fietspaden.
 
 ---
 
@@ -155,7 +155,7 @@ Vanaf mijn vroegste dagen is het Idromeer een constante bron van inspiratie en v
 - Surface area: 11 km²
 - Length: 10.9 km
 - Max depth: 122m
-- No motorboats allowed
+- Boat engines capped at 9.9 HP — no speedboats or water skiing, only slow fishing boats
 - Wind: Ander (thermal from north), reliable in afternoons
 - Season: best May–September for water sports; year-round for trekking
 - Nearest cities: Brescia (55km), Milan (130km), Verona (100km)
@@ -218,3 +218,87 @@ Het lang verwachte fietspad langs het Idromeer (Lago d'Idro / Idrosee) is er ein
 Het pad begint in de wijk Pieve (il Ponte) aan de oostoever van het Idromeer en volgt de oever naar Anfo, dan langs de Chiese naar Ponte Caffaro. Vanaf april 2026 is de route vrijwel volledig te rijden. Het begingedeelte van Pieve tot het picknickgebied moet nog worden opgeknapt — niet aanbevolen voor gezinnen met jonge kinderen, fietskaren of bakfietsen.
 
 Aanbevolen fietsen: trekkingfiets, mountainbike of e-bike. Verdicht gravel. Startpunt: wijk Pieve (il Ponte), Idro.
+
+---
+
+## Pasquetta sul Lago d'Idro — Grigliata in Giardino (IT)
+URL: https://www.iloveidro.com/pasquetta-bbq-giardino-lago-idro/
+Date: 2026-04-06
+Language: Italian
+
+Pasquetta (il Lunedì dell'Angelo) sul Lago d'Idro si passa tradizionalmente all'aperto, con la grigliata in giardino tra amici e parenti. In Italia è la giornata della gita fuori porta o, più spesso, del barbecue. Sulla griglia finiscono salsicce, costine, bistecche e verdure di stagione; da bere un rosso della Valle Sabbia o un bianco del Garda; per chiudere, la colomba pasquale. Molti agriturismi e B&B della zona organizzano grigliate in giardino su richiesta, soprattutto nei weekend di primavera.
+
+## Easter Monday at Lake Idro — A Garden BBQ (EN)
+URL: https://www.iloveidro.com/easter-monday-bbq-garden-lake-idro/
+Date: 2026-04-06
+Language: English
+
+Easter Monday (Pasquetta) at Lake Idro is traditionally spent outdoors with a garden barbecue among friends and family. In Italy it is the day of the day-trip or, more often, of the barbecue. Typical grill: sausages, ribs, steaks and seasonal vegetables, with a red from the Valle Sabbia or a white from Garda, and colomba cake to finish. Many local farm stays and B&Bs will organise a garden barbecue on request, especially on spring weekends.
+
+## Ostermontag am Idrosee — Grillen im Garten (DE)
+URL: https://www.iloveidro.com/ostermontag-bbq-garten-idrosee/
+Date: 2026-04-06
+Language: German
+
+Der Ostermontag (Pasquetta) wird am Idrosee traditionell im Freien verbracht, mit einem Grillfest im Garten unter Freunden und Verwandten. Auf den Grill kommen Würstchen, Rippchen, Steaks und Gemüse der Saison, dazu ein Rotwein aus dem Valle Sabbia oder ein Weißwein vom Gardasee und zum Abschluss die Colomba. Viele Agriturismi und B&Bs der Gegend organisieren auf Anfrage ein Grillfest im Garten, besonders an Frühlingswochenenden.
+
+## Tweede Paasdag aan het Idromeer — BBQ in de Tuin (NL)
+URL: https://www.iloveidro.com/tweede-paasdag-bbq-tuin-idromeer/
+Date: 2026-04-06
+Language: Dutch
+
+Tweede paasdag (Pasquetta) wordt aan het Idromeer traditioneel buiten doorgebracht, met een barbecue in de tuin onder vrienden en familie. Op de grill: worstjes, ribbetjes, steaks en groenten van het seizoen, met een rode wijn uit de Valle Sabbia of een witte van het Gardameer, en colomba als afsluiter. Veel agriturismi en B&B's in de streek organiseren op verzoek een tuinbarbecue, vooral in de lentweekenden.
+
+---
+
+## Kayak in Famiglia al Lago d'Idro — Il Noleggio del Chiosco di Lemprato (IT)
+URL: https://www.iloveidro.com/kayak-famiglia-lemprato-lago-idro/
+Date: 2026-08-16
+Language: Italian
+
+Al Lago d'Idro il kayak non è più solo un allenamento solitario: grazie al noleggio del chiosco sulla spiaggia di Lemprato è diventato un'attività di famiglia, senza possedere una barca e senza logistica. Il noleggio è il Kiosko Idro, chiosco-bar in Via Lungo Lago Italia 16, frazione Lemprato di Idro, che affitta kayak direttamente sul posto nei mesi estivi.
+
+L'uscita sportiva in solitaria misura circa dieci chilometri lungo la sponda (la circumnavigazione completa del lago è poco più di venti). L'uscita in famiglia è tutt'altra cosa: due o tre chilometri complessivi, da una a due ore, con soste su spiaggette di sassi raggiungibili solo dall'acqua.
+
+Perché il kayak in famiglia funziona bene sul Lago d'Idro: i motori sul lago sono limitati a 9,9 cavalli, quindi non ci sono motoscafi né sci d'acqua, ma solo barchette lente, soprattutto quelle dei pescatori. Niente onde di scia. L'acqua è tra le più pulite d'Italia, a 368 metri di altitudine, nella Valle Sabbia.
+
+Consigli pratici: andare in mattinata, indicativamente prima delle 11, perché il vento termico Ander si alza nelle ore centrali della giornata (ottimo per windsurf e kitesurf, sconsigliato per pagaiare con bambini). Portare costume, maglietta leggera, crema solare, acqua e scarpette da scoglio. Il giubbotto di salvataggio per i bambini conviene portarlo da casa. I kayak del noleggio sono singoli con pozzetto, larghi e molto stabili, non richiedono tecnica; i bambini piccoli siedono nel pozzetto davanti al genitore, che pagaia per entrambi. Con la famiglia conviene restare lungo la sponda anziché tagliare il lago in mezzo.
+
+## Family Kayaking at Lake Idro — Renting from the Kiosk in Lemprato (EN)
+URL: https://www.iloveidro.com/family-kayaking-lemprato-lake-idro/
+Date: 2026-08-16
+Language: English
+
+At Lake Idro kayaking is no longer only a solo workout: thanks to the rental at the kiosk on Lemprato beach it has become a family activity, with no boat to own and no logistics. The rental is Kiosko Idro, the beach bar at Via Lungo Lago Italia 16 in Lemprato, a hamlet of Idro, which rents kayaks on the spot during the summer months.
+
+A solo training outing is about ten kilometres along the shore (a full lap of the lake is a little over twenty). A family outing is a different scale entirely: two to three kilometres in total, one to two hours, with stops on pebble beaches reachable only from the water.
+
+Why family kayaking works well on Lake Idro: engines on the lake are capped at 9.9 HP, so there are no speedboats and no water skiing, only slow little boats, mostly the fishermen's. No wake. The water is among the cleanest in Italy, at 368 metres above sea level, in the Valle Sabbia.
+
+Practical tips: go in the morning, roughly before 11am, because the Ander thermal wind picks up in the middle of the day (excellent for windsurfing and kitesurfing, not for paddling with children). Bring swimwear, a light t-shirt, sunscreen, water and water shoes. Bring your own buoyancy aid for children. The rental kayaks are singles with a cockpit, wide and very stable, requiring no technique; small children sit in the cockpit in front of the parent, who paddles for both. With a family, stay along the shoreline rather than cutting across the lake.
+
+## Kajakfahren mit der Familie am Idrosee — Der Verleih am Kiosk in Lemprato (DE)
+URL: https://www.iloveidro.com/familien-kajak-lemprato-idrosee/
+Date: 2026-08-16
+Language: German
+
+Am Idrosee ist Kajakfahren nicht mehr nur einsames Training: Dank des Verleihs am Kiosk am Strand von Lemprato ist es eine Familienaktivität geworden, ohne eigenes Boot und ohne Logistik. Der Verleih ist Kiosko Idro, die Strandbar in der Via Lungo Lago Italia 16 in Lemprato, einem Ortsteil von Idro, die in den Sommermonaten Kajaks direkt vor Ort vermietet.
+
+Eine sportliche Ausfahrt allein misst rund zehn Kilometer am Ufer entlang (die vollständige Seeumrundung etwas mehr als zwanzig). Eine Familienrunde ist ein völlig anderer Maßstab: insgesamt zwei bis drei Kilometer, ein bis zwei Stunden, mit Pausen an Kiesstränden, die nur vom Wasser aus erreichbar sind.
+
+Warum Familienkajak am Idrosee gut funktioniert: Motoren sind auf dem See auf 9,9 PS begrenzt, es gibt also keine Schnellboote und kein Wasserski, sondern nur langsame kleine Boote, vor allem die der Fischer. Keine Heckwellen. Das Wasser gehört zu den saubersten Italiens, auf 368 Metern Höhe im Valle Sabbia.
+
+Praktische Hinweise: am Vormittag fahren, etwa vor 11 Uhr, da der thermische Wind Ander in den Mittagsstunden auffrischt (ideal für Windsurfen und Kitesurfen, ungeeignet zum Paddeln mit Kindern). Badesachen, leichtes T-Shirt, Sonnencreme, Wasser und Badeschuhe mitnehmen. Die Schwimmweste für Kinder am besten selbst mitbringen. Die Leihkajaks sind Einer mit Sitzluke, breit und sehr kentersicher, ohne Technikanspruch; kleine Kinder sitzen in der Luke vor dem Elternteil, das für beide paddelt. Mit der Familie am Ufer bleiben, statt den See in der Mitte zu queren.
+
+## Kajakken met het Gezin op het Idromeer — Huren bij de Kiosk in Lemprato (NL)
+URL: https://www.iloveidro.com/kajakken-gezin-lemprato-idromeer/
+Date: 2026-08-16
+Language: Dutch
+
+Op het Idromeer is kajakken niet langer alleen solotraining: dankzij de verhuur bij de kiosk op het strand van Lemprato is het een gezinsactiviteit geworden, zonder eigen boot en zonder gedoe. De verhuur is Kiosko Idro, de strandbar aan de Via Lungo Lago Italia 16 in Lemprato, een gehucht van Idro, die in de zomermaanden ter plekke kajaks verhuurt.
+
+Een sportieve solotocht is ongeveer tien kilometer langs de oever (een volledige ronde om het meer is iets meer dan twintig). Een gezinstocht is een totaal andere maat: twee tot drie kilometer in totaal, één tot twee uur, met stops op kiezelstrandjes die alleen vanaf het water bereikbaar zijn.
+
+Waarom kajakken met het gezin goed werkt op het Idromeer: motoren zijn op het meer beperkt tot 9,9 pk, dus er zijn geen speedboten en geen waterski, alleen langzame bootjes, vooral die van vissers. Geen hekgolven. Het water behoort tot de schoonste van Italië, op 368 meter hoogte in de Valle Sabbia.
+
+Praktische tips: ga in de ochtend, ruwweg vóór elf uur, omdat de thermische wind Ander midden op de dag opsteekt (uitstekend voor windsurfen en kitesurfen, niet voor peddelen met kinderen). Neem zwemkleding, een licht T-shirt, zonnebrand, water en waterschoenen mee. Neem het zwemvest voor kinderen zelf mee. De huurkajaks zijn eenpersoons met een kuip, breed en zeer stabiel, zonder technische eisen; kleine kinderen zitten in de kuip vóór de ouder, die voor allebei peddelt. Blijf met het gezin langs de oever in plaats van het meer over te steken.

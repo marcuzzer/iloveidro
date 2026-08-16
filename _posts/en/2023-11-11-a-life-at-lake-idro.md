@@ -29,7 +29,7 @@ Now, approaching my fifties and as a father of two young children, Lake Idro off
 Lake Idro (Lago d'Idro in Italian, Idrosee in German, Idromeer in Dutch) is located in Valle Sabbia, province of Brescia, Lombardy, Italy. It's about 2 hours from Milan and 1 hour from Brescia. Coordinates: 45.7543°N, 10.5127°E, altitude 368m.
 
 **What makes Lake Idro special compared to Lake Garda?**
-Lake Idro is much quieter and more pristine than nearby Lake Garda. Motorboats are not allowed, the water is exceptionally clean, and the shores are largely undeveloped. Perfect for nature lovers seeking authenticity.
+Lake Idro is much quieter and more pristine than nearby Lake Garda. Engines are capped at 9.9 HP, so there are no speedboats and no water skiing — only slow fishing boats. The water is exceptionally clean, and the shores are largely undeveloped. Perfect for nature lovers seeking authenticity.
 
 **Is Lake Idro suitable for families with children?**
 Absolutely. The calm, clean waters, accessible beaches, playgrounds, and easy hiking trails make it ideal for families with children of all ages.

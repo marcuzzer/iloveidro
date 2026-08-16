@@ -29,7 +29,7 @@ Nu ik mijn vijftigste nader en vader ben van twee jonge kinderen, biedt het Idro
 Het Idromeer (Italiaans: Lago d'Idro, Duits: Idrosee) ligt in de Valle Sabbia, provincie Brescia, Lombardije, Italië. Het is ongeveer 2 uur van Milaan en 1 uur van Brescia. Coördinaten: 45.7543°N, 10.5127°E, hoogte: 368m boven zeeniveau.
 
 **Wat maakt het Idromeer bijzonder vergeleken met het Gardameer?**
-Het Idromeer is veel rustiger en ongerepter dan het nabijgelegen Gardameer. Motorboten zijn niet toegestaan, het water is uitzonderlijk schoon en de oevers zijn nauwelijks bebouwd. Perfect voor natuurliefhebbers die authenticiteit zoeken.
+Het Idromeer is veel rustiger en ongerepter dan het nabijgelegen Gardameer. Motoren zijn beperkt tot 9,9 pk, dus er zijn geen speedboten en geen waterski — alleen langzame vissersbootjes. Het water is uitzonderlijk schoon en de oevers zijn nauwelijks bebouwd. Perfect voor natuurliefhebbers die authenticiteit zoeken.
 
 **Is het Idromeer geschikt voor gezinnen met kinderen?**
 Absoluut. Het rustige, schone water, toegankelijke stranden, speeltuinen en eenvoudige wandelpaden maken het ideaal voor gezinnen met kinderen van alle leeftijden.
